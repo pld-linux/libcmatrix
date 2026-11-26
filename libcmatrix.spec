@@ -6,13 +6,13 @@
 Summary:	Matrix protocol library written in C using GObject
 Summary(pl.UTF-8):	Biblioteka protokołu Matrix napisana w C z użyciem GObject
 Name:		libcmatrix
-Version:	0.0.3
+Version:	0.0.4
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
 #Source0Download: https://source.puri.sm/Librem5/libcmatrix/-/releases
 Source0:	https://source.puri.sm/Librem5/libcmatrix/-/archive/v%{version}/%{name}-v%{version}.tar.bz2
-# Source0-md5:	6a63c43a38b25dfeb99b630a10a12402
+# Source0-md5:	f6d3c82fd083133444c6d37f00fb53c1
 URL:		https://source.puri.sm/Librem5/libcmatrix
 # -std=gnu18
 BuildRequires:	gcc >= 6:7
